@@ -16,4 +16,3 @@
 * [Fandom Wiki](https://loonatheworld.fandom.com/)
 
 * [LICENSE](./LICENSE.md)
-* [Donate](https://ko-fi.com/zacanger)

@@ -3,9 +3,7 @@
   "description": "#stanLOONA",
   "version": "0.11.2",
   "author": {
-    "email": "zac@zacanger.com",
-    "name": "Zac Anger",
-    "url": "http://zacanger.com"
+    "name": "autumn z"
   },
   "license": "MIT",
   "main": "index.js",
@@ -13,12 +11,12 @@
   "scripts": {
     "preversion": "sortpack && standard"
   },
-  "homepage": "https://github.com/zacanger/loona#readme",
+  "homepage": "https://github.com/zautumnz/loona#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/loona.git"
+    "url": "https://github.com/zautumnz/loona.git"
   },
-  "bugs": "https://github.com/zacanger/loona/issues",
+  "bugs": "https://github.com/zautumnz/loona/issues",
   "keywords": [
     "kpop",
     "loona",
